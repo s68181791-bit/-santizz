@@ -1,4 +1,4 @@
-#profile-title: 🦭 Santizz VPN
+profile-title: 🦭 Santizz VPN
 #profile-update-interval: 1
 #subscription-userinfo: expire=33330643200; total=0; used=0
 #announce: Обходы белых списков от Santizz. Платная версия
@@ -9,18 +9,4 @@ vless://8947f307-311a-461e-ab1c-f02b599d6baa@194.55.239.250:443?type=grpc&securi
 
 vless://8947f307-311a-461e-ab1c-f02b599d6baa@194.55.239.250:443?type=grpc&security=reality&sni=yastatic.ru&fp=firefox&pbk=3yWaaf1TBj82g8QIzmvegzMto2XFcsK6MHdeddBrE0Q&sid=55763d54&serviceName=grpc&mode=multi#Обход Santizz | №3
 
-vless://8947f307-311a-461e-ab1c-f02b599d6baa@194.55.239.250:443?type=grpc&security=reality&sni=yastatic.ru&fp=firefox&pbk=3yWaaf1TBj82g8QIzmvegzMto2XFcsK6MHdeddBrE0Q&sid=55763d54&serviceName=grpc&mode=multi#Обход Santizz | №4
-
-vless://8947f307-311a-461e-ab1c-f02b599d6baa@194.55.239.250:443?type=grpc&security=reality&sni=yastatic.ru&fp=firefox&pbk=3yWaaf1TBj82g8QIzmvegzMto2XFcsK6MHdeddBrE0Q&sid=55763d54&serviceName=grpc&mode=multi#Обход Santizz | №5
-
-vless://8947f307-311a-461e-ab1c-f02b599d6baa@194.55.239.250:443?type=grpc&security=reality&sni=yastatic.ru&fp=firefox&pbk=3yWaaf1TBj82g8QIzmvegzMto2XFcsK6MHdeddBrE0Q&sid=55763d54&serviceName=grpc&mode=multi#Обход Santizz | №6
-
-vless://8947f307-311a-461e-ab1c-f02b599d6baa@194.55.239.250:443?type=grpc&security=reality&sni=yastatic.ru&fp=firefox&pbk=3yWaaf1TBj82g8QIzmvegzMto2XFcsK6MHdeddBrE0Q&sid=55763d54&serviceName=grpc&mode=multi#Обход Santizz | №7
-
-vless://8947f307-311a-461e-ab1c-f02b599d6baa@194.55.239.250:443?type=grpc&security=reality&sni=yastatic.ru&fp=firefox&pbk=3yWaaf1TBj82g8QIzmvegzMto2XFcsK6MHdeddBrE0Q&sid=55763d54&serviceName=grpc&mode=multi#Обход Santizz | №8
-
-vless://8947f307-311a-461e-ab1c-f02b599d6baa@194.55.239.250:443?type=grpc&security=reality&sni=yastatic.ru&fp=firefox&pbk=3yWaaf1TBj82g8QIzmvegzMto2XFcsK6MHdeddBrE0Q&sid=55763d54&serviceName=grpc&mode=multi#Обход Santizz | №9
-
-vless://8947f307-311a-461e-ab1c-f02b599d6baa@194.55.239.250:443?type=grpc&security=reality&sni=yastatic.ru&fp=firefox&pbk=3yWaaf1TBj82g8QIzmvegzMto2XFcsK6MHdeddBrE0Q&sid=55763d54&serviceName=grpc&mode=multi#Обход Santizz | №10
-
-vless://8947f307-311a-461e-ab1c-f02b599d6baa@194.55.239.250:443?type=grpc&security=reality&sni=yastatic.ru&fp=firefox&pbk=3yWaaf1TBj82g8QIzmvegzMto2XFcsK6MHdeddBrE0Q&sid=55763d54&serviceName=grpc&mode=multi#Обход Santizz | №11
+vless://8947f307-311a-461e-ab1c-f02b599d6baa@194.55.239.250:443?type=grpc&
