@@ -5,6 +5,8 @@ from aiogram.types import (
     InlineKeyboardButton,
 )
 
+from config import PRICE
+
 
 def menu_kb():
     return ReplyKeyboardMarkup(
@@ -14,6 +16,7 @@ def menu_kb():
             [KeyboardButton(text="💬 Поддержка")],
         ],
         resize_keyboard=True,
+        input_field_placeholder="Выберите действие"
     )
 
 
@@ -22,9 +25,35 @@ def buy_kb():
         inline_keyboard=[
             [
                 InlineKeyboardButton(
-                    text="⭐ Купить за 150 Stars",
-                    callback_data="buy",
+                    text=f"⭐ Купить за {PRICE} Stars",
+                    callback_data="buy"
                 )
             ]
         ]
-    ) 
+    )
+
+
+def admin_kb():
+    return ReplyKeyboardMarkup(
+        keyboard=[
+            [
+                KeyboardButton(text="📊 Статистика"),
+                KeyboardButton(text="👥 Пользователи")
+            ],
+            [
+                KeyboardButton(text="📢 Рассылка")
+            ],
+            [
+                KeyboardButton(text="💰 Изменить цену"),
+                KeyboardButton(text="🔗 Изменить ссылку")
+            ],
+            [
+                KeyboardButton(text="🏠 Главное меню")
+            ]
+        ],
+        resize_keyboard=True
+    )
+
+
+def back_menu():
+    return menu_kb()
