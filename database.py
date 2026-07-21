@@ -47,4 +47,4 @@ def get_purchases(user_id):
         (user_id,)
     )
     row = cursor.fetchone()
-    return row[0] if row else 0
+    return row[0] if row else 0 
